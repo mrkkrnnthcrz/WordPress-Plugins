@@ -1,0 +1,405 @@
+These are the Used Plugins:
+
+# User Role Editor By Vladimir Garagulya
+- Can change user role (except Administrator) capabilities easy, with a few clicks.
+link: https://wordpress.org/plugins/user-role-editor/
+
+# Yoast SEO By Team Yoast
+- Search Engine Optimisation (SEO) encharge in metatags and indexing.
+link: https://wordpress.org/plugins/wordpress-seo/
+
+# Duplicator
+- backup Website using Admin -- without accessing the Cpanel
+link: https://wordpress.org/plugins/duplicator/
+
+# UpdraftPlus WordPress Backup Plugin By UpdraftPlus.Com, DavidAnderson
+- UpdraftPlus simplifies backups and restoration. It is the world’s highest ranking and most popular scheduled backup plugin
+link: https://wordpress.org/plugins/updraftplus/
+
+# Category Order and Taxonomy Terms Order By Nsp-Code
+- Order Categories and all custom taxonomies terms
+link: https://wordpress.org/plugins/taxonomy-terms-order/
+
+# Regenerate Thumbnails by Alex Mills (Viper007Bond)
+- Allows you to regenerate all thumbnails after changing the thumbnail sizes.
+link: https://wordpress.org/plugins/regenerate-thumbnails/
+
+# Ajax LoadMore by Daren (Multiple Premium)
+link: https://wordpress.org/plugins/ajax-load-more/
+# Ajax Pagination and Infinite Scroll By Malinky (Multiple Free - Broken WP Menu)
+- Used as an alternative for Wordpress Pagination
+link: https://wordpress.org/plugins/malinky-ajax-pagination/
+- Infinite Scroll and Load More Ajax Pagination By Rajan Shriwastava  (Single Free - Recommended)
+- Used as an alternative for Wordpress Pagination
+link: https://en-au.wordpress.org/plugins/infinite-scroll-and-load-more-ajax-pagination/
+
+# Cloudflare Rocket Loader Ignore by Jimmy Pena
+- Used to not include some query
+link: https://fuc.wordpress.org/plugins/cloudflare-rocket-loader-ignore/
+
+# Go Live Update URLS By Mat Lipe
+Sample:
+* Old URL: www.website_name.preview.net.au
+* New URL: www.website_name.com.au
+link: https://wordpress.org/plugins/go-live-update-urls/
+
+# Redirection by John Godley (Recommended)
+link: https://wordpress.org/plugins/redirection/
+Sample:
+Old: /help/
+NEW: /help-centre/
+* No need to include the Home URL
+* The redirection for homepage is "/".
+* List only the links that have been changed.
+# Simple 301 Redirects  by Scott Nellé
+https://en-au.wordpress.org/plugins/simple-301-redirects/
+Sample:
+* Source URL: /history.htm
+* Target URL: http://www.masonstourscom.au/about/
+
+# Post Type Archive Descriptions by  Mark Root-Wiley
+- Used to have Description metatag on the created Post type/ Taxonomy
+link: https://wordpress.org/plugins/post-type-archive-descriptions/
+
+# Share Buttons by AddThis
+link: https://wordpress.org/plugins/addthis/
+# AddToAny Share Buttons By AddToAny (Suggested - not visible on other )
+link: https://wordpress.org/plugins/add-to-any/
+- Used to share Website page to different social medias
+# Sassy Social Share By Team Heateor (Recommended)
+link: https://wordpress.org/plugins/sassy-social-share/
+Scrapping tool: https://developers.facebook.com/tools/debug/
+
+# Nav Menu Images  By Milan Dinić
+- Change text menu into image
+link : http://www.chillinwithwillie.com.au/
+
+# Menu Icons By Dzikri Aziz
+- Change text menu into icon
+link: https://wordpress.org/plugins/menu-icons/
+
+# Featured Image Column By Austin Passy
+- Select Which post type at Setting/Featured Image Col
+link: https://wordpress.org/plugins/featured-image-column/
+
+# Taxonomy Thumbnail By Grégory Viguier
+- Add Thumbnail/Image field on Xreated Taxonomy.
+link: https://wordpress.org/plugins/sf-taxonomy-thumbnail/
+
+# List Custom Taxonomy Widget by Nick Halsey
+- Add a taxonomy widget on sidebar
+link: https://wordpress.org/plugins/list-custom-taxonomy-widget/
+
+# Coming Soon Page & Maintenance Mode by SeedProd
+- The #1 Coming Soon Page, Under Construction & Maintenance Mode plugin for WordPress.
+Guide:
+Logo: 'logo'
+Heading: 'Website Name'
+Message:
+'Sorry we are down for maintenance.'
+'Sorry, we are temporary down for maintenance.
+The Website will be fully lived when all of its pages are content-ready and functionality-accurate.
+January 06, 2018'
+link: https://wordpress.org/plugins/coming-soon/
+
+# Minimal Coming Soon & Maintenance Mode – Easiest Coming Soon Builder By WebFactory
+Set up a Coming Soon Page, Maintenance Mode Page, Landing Page or Launch Page for your website.
+link: https://wordpress.org/plugins/minimal-coming-soon-maintenance-mode/
+
+# WooSwipe WooCommerce Gallery By Dean Oakley, Eric Jinks, BJ CJ
+- A WooCommerce Thumbnail gallery plugin built using PhotoSwipe from Dmitry Semenov
+link: https://wordpress.org/plugins/wooswipe/
+
+# Scroll Back To Top By Joe Sexton
+- It is a WordPress plugin to add a button that appears only when users scroll down the page allowing them to scroll to the top of the page.
+link: https://wordpress.org/plugins/scroll-back-to-top/
+
+# Contact Form 7 By Takayuki Miyoshi
+- Contact Form 7 can manage multiple contact forms, plus you can customize.
+link: https://wordpress.org/plugins/contact-form-7/
+
+# Multifile Upload Field for Contact Form 7 By Spyros Vlachopoulos
+- Add multiple file upload input on Contact Form 7.
+link: https://en-au.wordpress.org/plugins/multifile-upload-field-for-contact-form-7/
+
+# Contact Form 7 Dynamic Text ExtensionBy Chris Mavricos, SevenSpark
+- Auto-filling a URL using shortcode.
+link: https://wordpress.org/plugins/contact-form-7-dynamic-text-extension/
+
+# Dynamic Select for Contact Form 7 By John A. Huebner II
+- Create dynamic select fields in contact form 7.
+link: https://wordpress.org/plugins/contact-form-7-dynamic-select-extension/
+
+# Contact Forms, Surveys & Quiz Forms Plugin by Formidable Forms Builder for WordPress  By Strategy11
+- You can use our drag & drop WordPress form builder plugin to create contact forms, surveys, quiz forms, registration forms, payment forms, purchase forms, email marketing forms, and just about any other form you can imagine.
+link: https://en-au.wordpress.org/plugins/formidable/
+
+# PHP Code Widget By Otto
+- Add PHP codde to a widget
+link: https://wordpress.org/plugins/php-code-widget/
+
+# ZM Ajax Login & Register by By Zane Matthew
+- Create A ajax login and regeister form
+link: https://wordpress.org/plugins/zm-ajax-login-register/
+
+# MailChimp for WordPress By ibericode
+- Signup for updates
+link: https://wordpress.org/plugins/mailchimp-for-wp/
+
+# Post Views Counter By dFactory
+- Show the number of view/visits on a specific post.
+link: https://wordpress.org/plugins/post-views-counter/
+Docu: https://dfactory.eu/docs/post-views-counter/developers-api/
+
+# Video Thumbnails By Sutherland Boswell
+- Make a thumbnail image of a Video
+link: https://wordpress.org/plugins/video-thumbnails/
+
+# ACF Photo Gallery field By Navneil Naicker
+- This plugin is alternative of ACF Gallery Pro.
+- Upload multiple Images.
+- Customize the size of image to show.
+link: https://wordpress.org/plugins/navz-photo-gallery/
+
+# Really Simple SSL By Rogier Lankhorst
+- Really Simple SSL automatically detects your settings and configures your website to run over https.
+link: https://wordpress.org/plugins/really-simple-ssl/
+
+# SSL Insecure Content Fixer By WebAware
+lean up your WordPress website’s HTTPS insecure content and mixed content warnings.
+Setting: SSL Insecure Content > HTTPS detection > HTTP_X_FORWARDED_PROTO (e.g. load balancer, reverse proxy, NginX)
+link: https://wordpress.org/plugins/ssl-insecure-content-fixer/
+
+# Show Current Template By JOTAKI Taisuke
+- A WordPress plugin which shows the current template file name, the current theme name and included template files’ name in the tool bar.
+link: https://wordpress.org/plugins/show-current-template/#description
+
+# Easy Media Download By naa986
+- It gives your users the ability to download digital media files from your website.
+link: https://wordpress.org/plugins/easy-media-download/
+
+# Equal Height Columns By MIGHTYminnow, Mickey Kay, Braad Martin
+- Equal Height Columns lets you easily equalize the height of various columns and elements.
+link: https://wordpress.org/plugins/equal-height-columns/
+
+# WP Updates Notifier By Scott Cariss
+- Monitors your WordPress installation for core, plugin and theme updates and emails you when they are available.
+link: https://wordpress.org/plugins/wp-updates-notifier/
+
+# Archive Control By Jesse Sutherland
+- A quick easy way to customize archive pages
+link: https://wordpress.org/plugins/archive-control/
+
+# All In One WP Security By Tips and Tricks HQ, Peter Petreski, Ruhul, Ivy
+- All round best WordPress security plugin!
+link: https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/
+
+# ReachEdge By ReachLocal, Inc.
+- Enable Tracking code.
+link: https://en-au.wordpress.org/plugins/reachedge/
+
+# WP Statistics By Verona Labs
+- Complete WordPress Analytics and Statistics for your site!
+- Visitors Count with shortcode
+link: https://wp-statistics.com/category/documentation/
+link: https://wordpress.org/plugins/wp-statistics/
+
+# Download Plugins and Themes from Dashboard By Algoritmika Ltd
+-  Download installed plugins and themes ZIP files directly from your admin dashboard without using FTP.
+link: https://wordpress.org/plugins/download-plugins-dashboard/
+# Download Theme By LittleBizzy
+- Quickly and easily download a ZIP file of any theme currently installed on your WordPress website without requiring SFTP info or fancy dependencies.
+link: https://wordpress.org/plugins/download-theme-littlebizzy/
+
+# Custom Post Type UI By WebDevStudios
+- Admin panel for creating custom post types and custom taxonomies in WordPress
+link: https://wordpress.org/plugins/custom-post-type-ui/
+
+# Delete Multiple Themes By HappyPlugins
+- Delete Multiple Themes
+link: https://wordpress.org/plugins/delete-multiple-themes/
+
+# Cf7 UI slider By Ayush Malakar
+- range of number field
+link: https://wordpress.org/plugins/cf7-ui-slider/
+
+# Favicon by RealFaviconGenerator By Philippe Bernard
+- Generate Favicon in any sizes
+link: https://wordpress.org/plugins/favicon-by-realfavicongenerator/
+
+# Breadcrumb NavXT By John Havlik
+- Adds a breadcrumb navigation showing the visitor's path to their current location.
+link: https://en-au.wordpress.org/plugins/breadcrumb-navxt/
+# Flexy Breadcrumb By PressTigers
+- Adds a breadcrumb navigation
+link: https://wordpress.org/plugins/flexy-breadcrumb/
+
+# myStickymenu By m.r.d.a
+- Stickey header , dont have conditions
+link: https://wordpress.org/plugins/mystickymenu/
+# Sticky Menu (or Anything!) on Scroll By Mark Senff (Recommended)
+- Sticky header :
+* Can calculate offset top even with dashboad menu.
+* Can restyle depend on the current status : sticked or not sticked
+link: https://wordpress.org/plugins/sticky-menu-or-anything-on-scroll/
+
+# Disable Comments By Samir Shah
+- This plugin allows administrators to globally disable comments on any post type
+link: https://wordpress.org/plugins/disable-comments/
+
+# Instagram Feed By Smash Balloon
+- Display Instagram photos from any non-private Instagram accounts.
+link: https://wordpress.org/plugins/instagram-feed/
+
+# Custom Twitter Feeds By Smash Balloon
+- Customizable Twitter feeds for your website.
+link: https://en-au.wordpress.org/plugins/custom-twitter-feeds/
+
+# Autoptimize By Frank Goossens (futtta)
+- Autoptimize makes optimizing your site really easy. It can aggregate, minify and cache scripts and styles.
+link: https://wordpress.org/plugins/autoptimize/
+
+# Async JavaScript By Clough I.T. Solutions
+When a JavaScript file is loaded via the wp_enqueue_script function, Async JavaScript will add an async or defer attribute.
+link: https://wordpress.org/plugins/async-javascript/
+
+# WP Fastest Cache By Emre Vona
+Cache system generates a static html file and saves. Other users reach to static html page.
+link: https://wordpress.org/plugins/wp-fastest-cache/
+
+# Fast Velocity Minify By Raul Peixoto (recommended)
+Minify, defer and combine Scripts and Styling.
+link: https://wordpress.org/plugins/fast-velocity-minify/
+
+# Hyper Cache By Stefano Lissa (recommended)
+Caching tool
+link: https://wordpress.org/plugins/hyper-cache/
+
+# Tidio Live Chat By Tidio Ltd. (With Tidio-Third Party)
+Tidio Live Chat is a live chat service which allows you to easily communicate with your customers.
+link: https://wordpress.org/plugins/tidio-live-chat/
+
+# WP Live Chat Support By WP-LiveChat (No Third Party)
+Chat with your visitors for free! No need for monthly payments. Add live chat support to your site now.
+link: https://en-au.wordpress.org/plugins/wp-live-chat-support/
+
+# Radio Buttons for Taxonomies By Kathy Darling
+- Replace the default taxonomy boxes with a custom metabox that uses radio buttons.
+link: https://wordpress.org/plugins/radio-buttons-for-taxonomies/
+
+# WPFront Scroll Top By Syam Mohan
+- allows the visitor to easily scroll back to the top of the page
+link: https://en-au.wordpress.org/plugins/wpfront-scroll-top/
+
+# WP Post Email Notification Options By Nicolai Stäger
+- Sends email-notifications to a list of subscribers (email address) whenever a new post is published
+- Add any email address
+link: https://wordpress.org/plugins/wp-post-email-notification/
+
+# WP Smart Preloader By ashokmhrj
+- It is a Simple CSS spinners and throbbers made with CSS and minimal HTML markup.
+link: https://wordpress.org/plugins/wp-smart-preloader/
+
+# WooCommerce Grid / List toggle By jameskoster
+- toggle between grid / list views of your products
+link: https://wordpress.org/plugins/woocommerce-grid-list-toggle/
+
+# Cleverness To-Do List By C.M. Kendrick
+- This plugin provides users with a to-do list feature.
+link: https://wordpress.org/plugins/cleverness-to-do-list/
+
+# Woo Preview Emails By Digamber Pradhan
+- An Extension for WooCommerce that allows you to Preview Email Templates.
+link: https://en-au.wordpress.org/plugins/woo-preview-emails/
+
+# ShiftNav - Responsive Mobile Menu By Chris Mavricos, SevenSpark
+- Sliding Navagation Menu similar to off-canvas slide-out
+link: https://wordpress.org/plugins/shiftnav-responsive-mobile-menu/
+
+# Broadcast By edward_plainview
+- Copy content from different website - Multisite.
+link: https://en-au.wordpress.org/plugins/threewp-broadcast/
+
+# If Menu – Visibility control for Menu Items By Layered
+- Conditional Menu
+link: https://wordpress.org/plugins/if-menu/
+
+# Widget Logic By wpchefgadget, alanft
+- Conditional Widget/Sidebar
+link: https://wordpress.org/plugins/widget-logic/
+
+# FakerPress By Gustavo Bordoni
+- Create dummy data for post types
+link: https://wordpress.org/plugins/fakerpress/
+
+# Soundy Background Music By Bertrand du Couédic
+- Soundy Background Music allows any page or post to play a background music while it is displayed.
+link: https://wordpress.org/plugins/soundy-background-music/
+
+# WP Mail Logging By Christian Zöller
+- Check WordPress or Woocommerce Email if sending
+link: https://en-gb.wordpress.org/plugins/wp-mail-logging/
+
+# Page scroll to id By malihu
+- smooth scrolling animation.
+link: https://wordpress.org/plugins/page-scroll-to-id/
+
+# EU Cookie Law By Alex Moss, Marco Milesi, Peadig, Shane Jones
+- allows your website to comply the european cookie law by informing users that your site has cookies.
+Cookie Link: http://www.allaboutcookies.org/
+link: https://wordpress.org/plugins/eu-cookie-law/
+link: https://cookieconsent.insites.com/download/
+
+# Download GDPR Cookie Consent By WebToffee
+- allows your website to comply the european cookie law by informing users that your site has cookies.
+Cookie Link: http://www.allaboutcookies.org/
+link: https://wordpress.org/plugins/cookie-law-info/
+
+# Contact Form 7 Honeypot By Nocean
+-  anti-spam functionality to thwart spam bots without the need for an captcha.
+link: https://wordpress.org/plugins/contact-form-7-honeypot/
+
+# Duplicate Page By mndpsingh287
+- Duplicate Posts, Pages and Custom Posts using single click.
+link: https://wordpress.org/plugins/duplicate-page/
+
+# WP Rollback By WordImpress
+- Quickly rollback any theme or plugin to any previous/newer version.
+link: https://wordpress.org/plugins/wp-rollback/
+
+# WP File Manager By mndpsingh287
+- File Manager provides you features to edit, delete, upload, download, copy and paste files and folders.
+link: https://wordpress.org/plugins/wp-file-manager/
+
+# Plugins Garbage Collector
+- Remove unuses WordPress and Plugin table data in database
+link: https://wordpress.org/plugins/plugins-garbage-collector/
+
+# WC Hide Shipping Methods By Rynaldo Stoltz
+- Automatically hides all other shipping methods when “free shipping” is available during checkout process.
+link: https://wordpress.org/plugins/wc-hide-shipping-methods/
+
+# Health Check & Troubleshooting By The WordPress.org community
+- Detect common configuration errors and known issues
+- This include checking php version
+link: https://wordpress.org/plugins/health-check/
+
+# WP Downgrade | Specific Core Version By By Reisetiger
+- Rollback WordPress Version
+link: https://wordpress.org/plugins/wp-downgrade/
+
+# Classic Editor By WordPress Contributors
+- Revert back the Editor from Gutenberg to Classic Editor
+link: https://wordpress.org/plugins/classic-editor/
+
+# Disable Post Revision By Joel James
+- If you care about the server and database size, these post revisions may be a headache.
+link: https://wordpress.org/plugins/disable-post-revision/
+
+# Increase Max Upload Filesize By Ashutosh Kumar
+This plugin increase upload size limit up to 250Mb (262144000) and more
+link: https://wordpress.org/plugins/upload-max-file-size/
+
+Export media with selected content By Joost de Keijzer
+The plugin tries to find featured images and included media in the post_content, adding them to the export file
+link: https://en-au.wordpress.org/plugins/export-media-with-selected-content/
